@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Projects/idz_assignment/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Projects/idz_assignment/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/EY/4JJQTYVH831QI4O0P5N5NL.uasset",
+				"C:/Projects/idz_assignment/Content/ThirdPerson/Animation/ABP_Player.uasset"
+			]
+		}
+	]
+}
