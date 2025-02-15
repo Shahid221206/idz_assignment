@@ -252,6 +252,7 @@ void Aidz_Assignment_CodeCharacter::CalculateSpeedAndDirection()
         Direction = 0.f;
     }
 }
+
 void Aidz_Assignment_CodeCharacter::CheckInAir()
 {
     // Check if the player is on the ground
